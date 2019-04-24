@@ -1,0 +1,10 @@
+
+
+.top-banner {
+	background-image: url('../images/main-search-video-poster.jpg');background-size: cover;background-position: bottom;
+	padding: 0;
+}
+
+.overlay {
+	background: rgba(38, 49, 88, 0.6);
+}
